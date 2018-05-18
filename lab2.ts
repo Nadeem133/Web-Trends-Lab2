@@ -1,15 +1,15 @@
 enum days{
-    Sunday=1,
+    Sunday,
     Monday,
     Tuesday,
     Wednesday,
-    Thursaday,
+    Thursday,
     Friday,
     Saturday
 }
 
 enum months{
-    Januray,
+    January,
     February,
     March,
     April,
